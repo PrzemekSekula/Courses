@@ -3,5 +3,6 @@ ipywidgets
 qiskit
 qiskit-aer
 qiskit-ibm-runtime
+qiskit-algorithms
 matplotlib
 pylatexenc
